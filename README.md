@@ -135,7 +135,7 @@ The development server will start at `http://localhost:3333`.
 
 - **Hefei University of Technology** (2022 - Present)
   - Bachelor of Software Engineering
-  - GPA: [Your GPA]
+  - GPA: 3.90/4.3
   - Relevant Coursework: Data Structures, Algorithms, Software Engineering, Web Development
 
 ### Key Projects
